@@ -1,0 +1,9 @@
+*.mp4
+*.avi
+*.zip
+output/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+*.tmp
